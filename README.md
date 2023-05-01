@@ -60,5 +60,12 @@ lol|88$|Top1
 原神|free|Top3
 
 
+## 超链接
+
+[Bilibili弹幕网](https://www.bilibili.com "点击进入B站")
+[百度搜索](https://www.baidu.com "点击进入百度")
+
+
+
 
 
