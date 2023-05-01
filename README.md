@@ -66,16 +66,16 @@ lol|88$|Top1
 
 
 ## 插入代码片段
-...c
+'''c
 # include<stdio.h>
 int main()
 {
 printf("testing...\n")
 return 0;
 }
+'''
 
-
-...cpp
+'''cpp
 # include<iostream>
 using namespace std;
 int main()
@@ -86,17 +86,17 @@ int main()
 
 return 0;
 }
-
-...python
+'''
+'''python
 import os;
 
 
-
-...bash
+'''
+'''bash
 touch files;
 echo "回显内容"
 reboot   "重启"
-
+'''
 
 
 
