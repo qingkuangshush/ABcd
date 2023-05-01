@@ -62,9 +62,40 @@ lol|88$|Top1
 
 ## 超链接
 
-[Bilibili弹幕网](https://www.bilibili.com "点击进入B站")
-[百度搜索](https://www.baidu.com "点击进入百度")
+[bilbili弹幕网](https://www.bilibili.com "点击进入哔站")
 
+
+## 插入代码片段
+...c
+# include<stdio.h>
+int main()
+{
+printf("testing...\n")
+return 0;
+}
+
+
+...cpp
+# include<iostream>
+using namespace std;
+int main()
+{
+
+
+
+
+return 0;
+}
+
+...python
+import os;
+
+
+
+...bash
+touch files;
+echo "回显内容"
+reboot   "重启"
 
 
 
